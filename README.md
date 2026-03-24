@@ -44,7 +44,7 @@ Agent Skills format — works with the **skills CLI** (Cursor, Claude Code, Code
 Works with Cursor, Claude Code, Codex, Windsurf, Copilot, and 40+ agents:
 
 ```bash
-npx skills add https://github.com/YOUR_USERNAME/threejs-skills
+npx skills add https://github.com/alton47/threejs-skills
 ```
 
 ### Claude Code
@@ -183,7 +183,6 @@ animate();
 threejs-skills/
 ├── README.md
 ├── CONTRIBUTING.md
-├── COMMITS.md                     # Full commit history guide
 ├── LICENSE
 ├── AGENTS.md                      # Guidance for agents editing this repo
 │
@@ -261,4 +260,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding skills, improvin
 
 ## License
 
-MIT © [Your Name]
+MIT © Allan Alton
