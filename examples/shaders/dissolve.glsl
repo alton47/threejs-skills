@@ -56,7 +56,6 @@ void main() {
   // Add glow at edge
   vec3 color = mix(uEdgeColor, base.rgb, edge);
   float alpha = edge < 0.01 ? 0.0 : base.a;
-
   gl_FragColor = vec4(color, alpha);
 }
 */
